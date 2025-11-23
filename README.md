@@ -16,7 +16,7 @@ This project includes an interactive dashboard for sweets sales analytics.
 ![Dashboard Preview](Sweets%20project.PNG)
 
 ![Dashboard Preview](Pv.Table.PNG)
-![Dashboard Preview](Data Relationship Chip.PNG)
+![Dashboard Preview](Data%20Relationship%20Chip.PN)
 
 
 
