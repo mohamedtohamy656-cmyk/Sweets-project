@@ -13,7 +13,7 @@ matplotlib
 
 This project includes an interactive dashboard for sweets sales analytics.
 
-![Dashboard Preview](./https://github.com/mohamedtohamy656-cmyk/Sweets-project/blob/main/Sweets%20project.PNG)
+![Dashboard Preview](Sweets%20project.PNG)
 
 ![Dashboard Preview](.D:\curent work2024\Trening\مشروعات\Sweets.Project-2025\Pv.Table.PNG)
 
