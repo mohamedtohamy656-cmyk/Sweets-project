@@ -16,8 +16,8 @@ This project includes an interactive dashboard for sweets sales analytics.
 ![Dashboard Preview](Sweets%20project.PNG)
 
 ![Dashboard Preview](Pv.Table.PNG)
-![Dashboard Preview](Data%20Relationship%20Chip.PN)
 
+![Dashboard Preview](Data%20Relationship%20Chip.PNG)
 
 
 This dataset contains sales analytics for sweets products, including monthly revenue, top products, city-based orders, category distribution, delivery times, and occasion-based performance.
