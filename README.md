@@ -13,9 +13,9 @@ matplotlib
 
 This project includes an interactive dashboard for sweets sales analytics.
 
-![Dashboard Preview](./dashboard-preview.jpg)
+![Dashboard Preview](./D:\curent work2024\Trening\مشروعات\Sweets.Project-2025\Sweets project.PNG)
 
-
+![Dashboard Preview](.D:\curent work2024\Trening\مشروعات\Sweets.Project-2025\Pv.Table.PNG)
 
 
 
