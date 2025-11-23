@@ -15,7 +15,7 @@ This project includes an interactive dashboard for sweets sales analytics.
 
 ![Dashboard Preview](Sweets%20project.PNG)
 
-![Dashboard Preview](.D:\curent work2024\Trening\مشروعات\Sweets.Project-2025\Pv.Table.PNG)
+![Dashboard Preview](Pv.Table.PNG)
 
 
 
